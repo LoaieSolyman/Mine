@@ -7,3 +7,5 @@ testnew
 testnew2
 testnew3
 testingdiff
+test4
+test4add
